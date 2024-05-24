@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GlamourGrove</string>
+    <string name="hello">Hey There,</string>
+    <string name="create_account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_and_conditions">By continuing you accept our
+        privacy policy and terms of use</string>
+    <string name="terms_and_conditions_header">Terms of Use</string>
+    <string name="register">Register</string>
+    <string name="go_to_login">Already have an Account? Login</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="login">Login</string>
+    <string name="introduction">Your Number One Styling Partner</string>
+    <string name="subtitle">The Right Address for Fashion Anyday</string>
+    <string name="get_started">Get Started</string>
+    <string name="offers">We Offer the following Inspos:</string>
+
+</resources>
